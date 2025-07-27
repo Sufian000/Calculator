@@ -1,6 +1,6 @@
 # 🧮 Advanced Scientific Calculator
 
-A sleek, browser-based scientific calculator built using **vanilla JavaScript**, **HTML5**, and **CSS3**, designed with a modern glassmorphism UI. This calculator supports real-time expression parsing, mathematical functions, and a persistent history log — all without external libraries or frameworks.
+A sleek, browser-based scientific calculator built using **vanilla JavaScript**, **HTML5**, and **CSS**, designed with a modern glassmorphism UI. This calculator supports real-time expression parsing, mathematical functions, and a persistent history log — all without external libraries or frameworks.
 
 ---
 
