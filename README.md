@@ -74,13 +74,6 @@ Only whitelisted `Math.*` operations are allowed.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute.
-
----
-
 ## 🙌 Acknowledgments
 
 Created with vanilla JavaScript as a demonstration of client-side math parsing and interactive UI design. Inspired by the need for lightweight, offline-accessible scientific calculators.
